@@ -5,7 +5,10 @@
     </h1>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ehtishamuldin/ehtishamuldin/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 </div>
 <!--
 **ehtishamuldin/ehtishamuldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
