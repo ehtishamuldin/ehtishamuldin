@@ -1,14 +1,21 @@
-        // Set the start date (change this if needed)
-        const startDate = new Date("2025-03-18"); // Replace with the actual start date
-        const today = new Date();
-        
-        // Calculate the difference in days
-        const timeDiff = today - startDate;
-        const daysPassed = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+ document.addEventListener("DOMContentLoaded", function () {
+            // Set the start date (change this if needed)
+            const startDate = new Date("2025-03-15"); // Adjust to when you want it to start
+            const today = new Date();
 
-        // Opacity values per day
-        const opacityLevels = [0.5, 0.35, 0.2, 0.05, 0]; // Opacity levels for 5 days
+            // Reset hours to avoid time-based miscalculations
+            startDate.setHours(0, 0, 0, 0);
+            today.setHours(0, 0, 0, 0);
 
-        // Apply opacity (if daysPassed is more than the last index, set to 0)
-        const opacity = daysPassed < opacityLevels.length ? opacityLevels[daysPassed] : 0;
-        document.body.style.opacity = opacity;
+            // Calculate how many days have passed
+            const daysPassed = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+
+            // Opacity values for each day
+            const opacityLevels = [0.5, 0.35, 0.2, 0.05, 0];
+
+            // Get correct opacity (if days exceed list, stay at 0)
+            let opacity = opacityLevels[Math.min(daysPassed, opacityLevels.length - 1)];
+
+            // Apply opacity directly to <body>
+            document.body.style.opacity = opacity;
+        });
