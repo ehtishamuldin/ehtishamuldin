@@ -1,6 +1,6 @@
  document.addEventListener("DOMContentLoaded", function () {
             // Set the start date (change this if needed)
-            const startDate = new Date("2025-03-15"); // Adjust to when you want it to start
+            const startDate = new Date("2025-03-18"); // Adjust to when you want it to start
             const today = new Date();
 
             // Reset hours to avoid time-based miscalculations
