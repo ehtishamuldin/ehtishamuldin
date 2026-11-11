@@ -1,12 +1,5 @@
-<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ehtisham%20Ul%20Din&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Lead%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
-</p>
-
-<p align="center">
-  <a href="https://ehtishamuldin.online">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ehtisham+(aka+Chine)+%F0%9F%91%8B;PHP+%E2%80%A2+Laravel+%E2%80%A2+JavaScript+%E2%80%A2+MERN;200%2B+web+apps+shipped+in+6%2B+years;Coding+is+key+to+satisfaction+%E2%9A%A1" alt="Typing SVG"/>
-  </a>
+  <img src="./assets/led-hero.svg" width="100%" alt="Ehtisham Ul Din — Lead Software Engineer at Digital Film Marketing, Lahore"/>
 </p>
 
 <p align="center">
@@ -24,7 +17,7 @@
 const ehtisham = {
   role:        "Lead Software Engineer @ Digital Film Marketing",
   location:    "Lahore, Pakistan 🇵🇰",
-  experience:  "6+ years · 200+ web apps shipped",
+  experience:  "6+ years, 200+ web apps shipped",
   focus:       ["Full-stack web", "Internal tools", "Chrome extensions", "Mobile apps"],
   philosophy:  "Small, self-contained, no-bloat code that just works",
   currently:   "Building DOOH / LED-screen ad tech & client web products",
@@ -72,7 +65,7 @@ const ehtisham = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ehtishamuldin&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=ehtishamuldin&theme=tokyonight&hide_border=true&background=161E33&ring=FFC24B&fire=FF9F1C&currStreakNum=FFC24B&currStreakLabel=FFC24B" alt="GitHub streak"/>
 </p>
 
 ### 🤝 Let's connect
@@ -83,7 +76,4 @@ const ehtisham = {
   <a href="https://ehtishamuldin.online">portfolio</a>.
 </p>
 
-<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
-</p>
+<p align="center"><sub>Built pixel by pixel, like the LED screens I write software for.</sub></p>
