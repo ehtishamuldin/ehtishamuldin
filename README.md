@@ -56,12 +56,12 @@ const ehtisham = {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehtishamuldin&theme=tokyonight" width="100%" alt="Profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehtishamuldin&theme=tokyonight&v=2" width="100%" alt="Profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehtishamuldin&theme=tokyonight" width="49%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehtishamuldin&theme=tokyonight" width="49%" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehtishamuldin&theme=tokyonight&v=2" width="49%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehtishamuldin&theme=tokyonight&v=2" width="49%" alt="Repos per language"/>
 </p>
 
 <p align="center">
